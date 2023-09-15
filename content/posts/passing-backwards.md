@@ -2,7 +2,7 @@
 title = 'Why do they pass backwards in Rugby?'
 date = 2023-09-15T20:26:52+08:00
 url = 'passing-backwards'
-draft = true
+draft = false
 hideDate = true
 +++
 
