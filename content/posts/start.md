@@ -24,7 +24,7 @@ There are many parts to the game. Scrums, mauls, lineouts, kicks "taken back in"
 ## Objectives
 Each team tries to get to the end of the field they are facing. **The team with the ball is attacking, and the other team is defending.**
 
-The attacking team tries to move down the field towards the opposition goal line. **They can move forward by running, passing backwards, or kicking the ball.** They will try to maintain possession in most cases.
+The attacking team tries to move down the field towards the opposition goal line. **They can move forward by running, passing backwards, or kicking the ball.** They will try to maintain possession in most cases. [The ball can only be passed backwards]({{< relref "passing-backwards" >}}).
 
 The defending team does not have the ball. They try to stop the attacking team by tackling, and also trying to steal the ball. The objective is to prevent the opposition from scoring a try. The defenders will also try to not concede territory, and also to gain possession in order to attack.
 
