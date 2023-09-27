@@ -4,6 +4,7 @@ date = 2023-09-15T20:26:52+08:00
 url = 'passing-backwards'
 draft = false
 hideDate = true
+description = 'Explaining why rugby players are required to pass the ball backwards.'
 +++
 
 In Rugby Union, the ball must be passed **backwards out of the hands**. The ball can travel forwards in an **absolute** manner, but must be passed backwards **relative to the players moving**.

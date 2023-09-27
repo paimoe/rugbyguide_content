@@ -4,6 +4,7 @@ date = 2023-09-09T22:38:56+08:00
 draft = false
 hideDate = true
 todo = 'link to RSA/FRA. link red/yellow cards. more situations with fewer players'
+description = 'All the Rugby Union positions explained'
 +++
 
 ## Number of Players

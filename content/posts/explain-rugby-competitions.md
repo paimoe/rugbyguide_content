@@ -4,6 +4,7 @@ date = 2023-09-24T21:01:56+08:00
 draft = false
 hideDate = true
 todo = 'lots of links to teams. stats should be puleld from rugbybot. expand on cups, BIL, etc. plenty of glossary. difference between 15s and 7s. link to upcoming competitions/calendar page'
+description = 'An overview of the most important Rugby Union competitions in the world.'
 +++
 
 Here is an overview of the most important Rugby Union competitions in the world.

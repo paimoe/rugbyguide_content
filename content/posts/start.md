@@ -3,9 +3,10 @@ title: "Rugby Union Guide for Beginners"
 date: "2023-08-31T18:49:55+08:00"
 draft: false
 url: start
-summary: Start here! This guide is designed to be a 10 minute read to introduce you to simple concepts. Hopefully you can enjoy watching your first match!
+summary: Start here! This guide is designed to be a 15 minute read to introduce you to simple concepts. Hopefully you can enjoy watching your first match!
+description: A beginner's guide to watching their first Rugby Union match, all in 15 minutes.
 ---
-> Watching your first match? This guide is for you! It is intended to be a 30? minute read to help you enjoy your first match. It is lighter on the rules with more emphasis on *how* to watch. <!--[more info on why i made this]()-->
+> Watching your first match? This guide is for you! It is intended to be a ~15 minute read to help you enjoy your first match. It is lighter on the rules with more emphasis on *how* to watch. <!--[more info on why i made this]()-->
 
 ## What is Rugby Union?
 

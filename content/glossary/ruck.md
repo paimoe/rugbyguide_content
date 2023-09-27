@@ -7,6 +7,7 @@ draft = false
 onHome = true
 hideToc = true
 hideDate = true
+description = 'A definition of the term "ruck" in Rugby Union'
 +++
 
 A **ruck**  occurs after a tackle is made. The attacking team tries to keep control of the ball, while the defending team tries to steal it. Both teams commit players to try to secure the ball.
