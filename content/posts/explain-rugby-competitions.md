@@ -85,6 +85,16 @@ The United Rugby Championship started as the Celtic League, becoming the Pro 12,
 
 The most successful clubs are **Leinster**, **Munster** and the **Ospreys**.
 
+### Major League Rugby
+
+> **When**: ~Feburary to ~July. **Location**: USA, Canada.
+
+Major League Rugby is the current competition based in North America. Starting in In 2023 it features 12 teams.
+
+The **Seattle Seawolves** have won two titles, with the **New England Free Jacks** winning most recently (2023).
+
+- [More information on Wikipedia](https://en.wikipedia.org/wiki/Major_League_Rugby)
+
 ## Other Competitions
 
 ### National Provincial Championship
