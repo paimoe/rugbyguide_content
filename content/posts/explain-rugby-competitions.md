@@ -17,9 +17,9 @@ These are also called **Test** matches. They are played between national teams.
 
 > **When**: September to November. 
 
-As of 2023, there are 20 teams participating in the World Cup. This is an event that is held every four years. The first World Cup was in 1987, won by New Zealand. The most recent World Cup was in 2019, won by South Africa.
+As of 2023, there are 20 teams participating in the World Cup. This is an event that is held every four years. The first World Cup was in 1987, won by New Zealand. The most recent World Cup was in 2023, won by South Africa.
 
-There have been 9 World Cups so far, and New Zealand and South Africa have won 3 each. Australia has won 2, and England has won 1. The [2023 World Cup is currently occurring in France.](https://www.rugbyworldcup.com)
+There have been 10 World Cups so far. South Africa has won 4, New Zealand have won 3, Australia has won 2, and England has won 1. The most recent [World Cup in 2023 was held in France.](https://www.rugbyworldcup.com/2023/)
 
 The Trophy is known as the [Webb Ellis Cup.](https://en.wikipedia.org/wiki/Webb_Ellis_Cup)
 
