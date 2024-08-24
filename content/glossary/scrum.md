@@ -13,7 +13,5 @@ A **scrum** is a method of restarting play when a minor infringement occurs. The
 
 > A scrum is not the same as a [ruck.](/glossary/ruck)
 
-### See Also
-- {{< glossary ruck >}}
 
 <!-- {{< figure src="/img/scrum.png" title="Figure 1: A scrum. The ball is put in the middle and hooked backwards." >}} -->
