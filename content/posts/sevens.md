@@ -5,9 +5,10 @@ draft:  false
 hideDate: true
 todo: 
 description: What is Rugby Sevens?
+url: what-is-rugby-sevens
 ---
 
-Rugby Sevens, often simply called **Sevens**, is a fast-paced variant of Rugby Union that has captivated fans around the world, especially after its inclusion in the Olympics. Unlike the traditional 15-a-side rugby, Sevens is played with seven players on each team, leading to more open play, faster action, and often higher-scoring games. This guide will introduce you to the world of Rugby Sevens, its history, top teams, and how you can get involved in the sport.
+Rugby Sevens, often simply called **Sevens**, is a fast-paced variant of Rugby Union that has captivated fans around the world, especially after its inclusion in the Olympics. Unlike the traditional 15-a-side rugby, Sevens is played with seven players on each team, leading to more open play, faster action, and often higher-scoring games. This guide will introduce you to the world of Rugby Sevens, its history, top teams, and what competitions to keep an eye on.
 
 ## History
 
@@ -46,7 +47,7 @@ Rugby Sevens made its Olympic debut at the Rio de Janeiro Games in 2016. The inc
 
 The inaugural Olympic Sevens tournament was considered successful, with Fiji's men's team winning their country's first-ever Olympic gold medal, and Australia's women's team taking home the gold in the women's competition. The spectacle of Sevens at the Olympics has helped introduce the sport to a broader audience.
 
-In the 2020 Tokyo Olympics, held in 2021 due to the COVID-19 pandemic, Rugby Sevens again featured prominently. Fiji's defended the men's title, while New Zealand won the women's gold. In 2024 in Paris, France won the men's gold with New Zealand taking back-to-back women's gold medals.
+In the 2020 Tokyo Olympics, held in 2021 due to the COVID-19 pandemic, Rugby Sevens again featured prominently. Fiji defended the men's title, while New Zealand won the women's gold. In 2024 in Paris, France won the men's gold with New Zealand taking back-to-back women's gold medals.
 
 ## Which nations are the best?
 
@@ -84,5 +85,6 @@ Rugby Sevens is a sport that is accessible to players of all ages and skill leve
 
     Participate in Local Tournaments: Many communities host local Sevens tournaments that welcome teams of all abilities. These tournaments provide a fun, competitive environment to test your skills and enjoy the social side of the sport. -->
 
+## A global game
 
 Rugby Sevens is an exciting, fast-paced variant that has captured the hearts of fans worldwide. With its rich history, dynamic gameplay, and growing presence on the international stage, including the Olympics, it's an excellent entry point for newcomers to the sport of rugby. Whether you're interested in playing, watching, or just learning more, Rugby Sevens offers something for everyone. So, why not dive in and experience the excitement of Rugby Sevens for yourself?
