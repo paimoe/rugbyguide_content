@@ -5,6 +5,7 @@ draft: false
 url: start
 summary: Start here! This guide is designed to be a 10 minute read to introduce you to simple concepts. Hopefully you can enjoy watching your first match!
 description: A beginner's guide to watching their first Rugby Union match, all in 15 minutes.
+hideDate: true
 ---
 > Watching your first match? This guide is for you! It is intended to be a ~10 minute read to help you enjoy your first match. It is lighter on the rules with more emphasis on *how* to watch. <!--[more info on why i made this]()-->
 

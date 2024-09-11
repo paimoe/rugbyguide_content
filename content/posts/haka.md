@@ -1,10 +1,10 @@
 ---
-title: 'Haka'
-date: 2024-04-14T16:53:38+08:00
+title: Haka
+date: 2024-08-14T16:53:38+08:00
 draft: false
 onHome: true
 hideToc: false
-hideDate: false
+hideDate: true
 todo: 
 description: 'An explanation of the Haka, and other ceremonial challenges'
 url: haka
