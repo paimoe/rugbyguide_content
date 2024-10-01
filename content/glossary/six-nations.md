@@ -3,7 +3,7 @@ linkTitle: Six Nations
 title: Six Nations
 date: 2024-10-01T19:13:57+08:00
 lastmod: 2024-10-01T19:13:57+08:00
-draft: true
+draft: false
 onHome: true
 hideToc: true
 hideDate: true

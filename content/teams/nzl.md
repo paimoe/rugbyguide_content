@@ -104,7 +104,7 @@ The rivalry with Australia, known as the **Bledisloe Cup**, is one of the fierce
 
 The rivalry with South Africa, known as the **Springboks**, is one of the longest and most storied in rugby history. These two nations have been at the top of world rugby for over a century, and their matches are often seen as the ultimate test. The 1995 Rugby World Cup final between New Zealand and South Africa is one of the most iconic matches in rugby history, symbolizing both sport and unity in post-apartheid South Africa.
 
-## World Cup Record
+## World Cup
 
 New Zealand's record at the **Rugby World Cup** is outstanding. The All Blacks have won the tournament three times (1987, 2011, and 2015) and are always considered one of the favorites. They have also reached the semifinals on several occasions, demonstrating their consistency at the highest level of international rugby.
 
