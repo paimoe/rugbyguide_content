@@ -7,6 +7,7 @@ hideToc: true
 hideDate: true
 todo: define touch
 description: A definition of the terms "blind side" and "open side" in Rugby Union
+links_from: blind side, blindside, open side, openside
 ---
 
 Wherever play takes place on the field, the side with the smallest distance to touch is called the **blind side**. The other side is called the **open side**.

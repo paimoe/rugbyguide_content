@@ -14,7 +14,7 @@ Rugby Sevens, often simply called **Sevens**, is a fast-paced variant of Rugby U
 
 Rugby Sevens originated in the Scottish borders town of Melrose in 1883, when a local butcher named Ned Haig came up with the idea as a way to raise funds for his club, Melrose RFC. The first-ever Rugby Sevens tournament was held that same year, and it quickly gained popularity due to its fast-paced and exciting nature. The simplicity of the games, shorter duration, and fewer players made it more accessible and easier to organize, which helped it spread to other parts of the United Kingdom and eventually around the world.
 
-By the mid-20th century, Rugby Sevens had gained a foothold in countries like New Zealand, Fiji, South Africa, and England, where it became a staple at local festivals and rugby clubs. The sport's profile grew significantly with the establishment of the [Hong Kong Sevens](https://en.wikipedia.org/wiki/Hong_Kong_Sevens) tournament in 1976, attracting international teams and fans from around the world. The event's success demonstrated the global appeal of Rugby Sevens, leading to the formation of the Sevens World Series in 1999, with New Zealand taking out the inaugural event.
+By the mid-20th century, Rugby Sevens had gained a foothold in countries like [New Zealand]({{< relref "teams/nzl" >}}), Fiji, South Africa, and England, where it became a staple at local festivals and rugby clubs. The sport's profile grew significantly with the establishment of the [Hong Kong Sevens](https://en.wikipedia.org/wiki/Hong_Kong_Sevens) tournament in 1976, attracting international teams and fans from around the world. The event's success demonstrated the global appeal of Rugby Sevens, leading to the formation of the Sevens World Series in 1999, with [New Zealand]({{< relref "teams/nzl" >}}) taking out the inaugural event.
 
 ## What are the differences between Rugby Union and Rugby Sevens?
 
@@ -47,14 +47,14 @@ Rugby Sevens made its Olympic debut at the Rio de Janeiro Games in 2016. The inc
 
 The inaugural Olympic Sevens tournament was considered successful, with Fiji's men's team winning their country's first-ever Olympic gold medal, and Australia's women's team taking home the gold in the women's competition. The spectacle of Sevens at the Olympics has helped introduce the sport to a broader audience.
 
-In the 2020 Tokyo Olympics, held in 2021 due to the COVID-19 pandemic, Rugby Sevens again featured prominently. Fiji defended the men's title, while New Zealand won the women's gold. In 2024 in Paris, France won the men's gold with New Zealand taking back-to-back women's gold medals.
+In the 2020 Tokyo Olympics, held in 2021 due to the COVID-19 pandemic, Rugby Sevens again featured prominently. Fiji defended the men's title, while [New Zealand]({{< relref "teams/nzl" >}}) won the women's gold. In 2024 in Paris, France won the men's gold with [New Zealand]({{< relref "teams/nzl" >}}) taking back-to-back women's gold medals.
 
 ## Which nations are the best?
 
 Several countries have emerged as powerhouses in Rugby Sevens, consistently performing well in international competitions.
 
-### New Zealand
-Known as the All Blacks Sevens, New Zealand has a storied history in Rugby Sevens, winning multiple World Sevens Series titles and World Cup championships. 
+### [New Zealand]({{< relref "teams/nzl" >}})
+Known as the [All Blacks]({{< relref "teams/nzl" >}}) Sevens, [New Zealand]({{< relref "teams/nzl" >}}) has a storied history in Rugby Sevens, winning multiple World Sevens Series titles and World Cup championships. 
 
 ### Fiji
 Fiji's national Sevens team, known for its flamboyant style of play, is widely regarded as one of the best in the world. Fijian players are known for their incredible agility, offloading skills, and creativity, which have led them to win multiple World Sevens Series titles and back-to-back Olympic gold medals in 2016 and 2021.
