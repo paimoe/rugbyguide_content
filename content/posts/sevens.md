@@ -47,14 +47,14 @@ Rugby Sevens made its Olympic debut at the Rio de Janeiro Games in 2016. The inc
 
 The inaugural Olympic Sevens tournament was considered successful, with Fiji's men's team winning their country's first-ever Olympic gold medal, and Australia's women's team taking home the gold in the women's competition. The spectacle of Sevens at the Olympics has helped introduce the sport to a broader audience.
 
-In the 2020 Tokyo Olympics, held in 2021 due to the COVID-19 pandemic, Rugby Sevens again featured prominently. Fiji defended the men's title, while [New Zealand]({{< relref "teams/nzl" >}}) won the women's gold. In 2024 in Paris, France won the men's gold with [New Zealand]({{< relref "teams/nzl" >}}) taking back-to-back women's gold medals.
+In the 2020 Tokyo Olympics, held in 2021 due to the COVID-19 pandemic, Rugby Sevens again featured prominently. Fiji defended the men's title, while [New Zealand]({{< relref "teams/nzl" >}}) won the women's gold. In 2024 in Paris, France won the men's gold with New Zealand taking back-to-back women's gold medals.
 
 ## Which nations are the best?
 
 Several countries have emerged as powerhouses in Rugby Sevens, consistently performing well in international competitions.
 
 ### [New Zealand]({{< relref "teams/nzl" >}})
-Known as the [All Blacks]({{< relref "teams/nzl" >}}) Sevens, [New Zealand]({{< relref "teams/nzl" >}}) has a storied history in Rugby Sevens, winning multiple World Sevens Series titles and World Cup championships. 
+Known as the **All Blacks Sevens**, New Zealand has a storied history in Rugby Sevens, winning multiple World Sevens Series titles and World Cup championships. 
 
 ### Fiji
 Fiji's national Sevens team, known for its flamboyant style of play, is widely regarded as one of the best in the world. Fijian players are known for their incredible agility, offloading skills, and creativity, which have led them to win multiple World Sevens Series titles and back-to-back Olympic gold medals in 2016 and 2021.

@@ -96,11 +96,11 @@ The NPC has a long tradition, with teams like **Auckland**, **Canterbury**, and 
 
 New Zealand's rugby rivalries are intense and historic, none more so than the rivalries with **Australia** and **South Africa**. These matches are fiercely contested and often carry more weight than a typical international game.
 
-### v Australia
+### New Zealand v Australia
 
 The rivalry with Australia, known as the **Bledisloe Cup**, is one of the fiercest in rugby. It dates back to 1931, with the two countries competing annually for this coveted trophy. While New Zealand has generally dominated, the Wallabies (Australia's national rugby team) have had their share of success, making these encounters must-watch events.
 
-### v South Africa
+### New Zealand v South Africa
 
 The rivalry with South Africa, known as the **Springboks**, is one of the longest and most storied in rugby history. These two nations have been at the top of world rugby for over a century, and their matches are often seen as the ultimate test. The 1995 Rugby World Cup final between New Zealand and South Africa is one of the most iconic matches in rugby history, symbolizing both sport and unity in post-apartheid South Africa.
 
