@@ -115,5 +115,3 @@ The **Black Ferns**, New Zealand's women's rugby team, have also been incredibly
 Rugby in New Zealand is more than just a sport; it's part of the country's fabric. From the All Blacks to grassroots rugby, New Zealand is home to some of the best rugby players, teams, and fans in the world. Whether you're watching the high-flying action of the All Blacks, the excitement of [rugby sevens]({{< relref "sevens" >}}), or the passion of a provincial game, rugby in New Zealand is a thrilling experience.
 
 For those new to rugby, New Zealand offers an incredible introduction to the game, full of history, talent, and intense rivalries. Keep an eye on the world of New Zealand rugby-you won't want to miss it.
-
-[Learn more about rugby terms and rules in our glossary](#).

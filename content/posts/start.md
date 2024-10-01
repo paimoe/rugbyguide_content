@@ -18,9 +18,9 @@ Each team has 15 players, **8 forwards** and **7 backs**. Typically, forwards ar
 
 There are many parts to the game. Scrums, mauls, lineouts, kicks "taken back in", but most of these details are not important to *enjoying* the game for the first time. However, for a quick explanation:
 
-- **Scrums** are used to restart play after a minor infringement. The forwards from each team bind together and push against each other. The ball is put in the middle and hooked backwards.
-- **Rucks** happen after a tackle is made. Both teams try to secure the ball. Keep an eye on the halfback in each case to see who has gained control.
-- **Lineouts** restart play after the ball goes out along the sideline. The forwards compete to secure a ball that is thrown down the middle.
+- **Scrums** are used to restart play after a minor infringement. The forwards from each team bind together and push against each other. The ball is put in the middle and hooked backwards. {{< glossary scrum >}}
+- **Rucks** happen after a tackle is made. Both teams try to secure the ball. Keep an eye on the halfback in each case to see who has gained control. {{< glossary ruck >}}
+- **Lineouts** restart play after the ball goes out along the sideline. The forwards compete to secure a ball that is thrown down the middle. {{< glossary lineout >}}
 
 ## Objectives
 Each team tries to get to the end of the field they are facing. **The team with the ball is attacking, and the other team is defending.**
