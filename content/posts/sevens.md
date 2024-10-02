@@ -6,6 +6,15 @@ hideDate: true
 todo: 
 description: What is Rugby Sevens?
 url: what-is-rugby-sevens
+
+seo_faq_questions: 
+    - question: What are the differences between Rugby Union and Sevens?
+      answer: Sevens has 7 players per side instead of 15. The match is two 7-minute halves instead of two 20-minute halves.
+    - question: Is Rugby Sevens at the Olympics?
+      answer: Yes, Rugby Sevens made its Olympic debut at Rio 2016, and has been held in Tokyo and Paris as well.
+    - question: Which teams are the best?
+      answer: New Zealand, Fiji, South Africa, Australia make up the earlier strong teams. In the 2020s, Argentina, USA and France have improved immensely.
+
 ---
 
 Rugby Sevens, often simply called **Sevens**, is a fast-paced variant of Rugby Union that has captivated fans around the world, especially after its inclusion in the Olympics. Unlike the traditional 15-a-side rugby, Sevens is played with seven players on each team, leading to more open play, faster action, and often higher-scoring games. This guide will introduce you to the world of Rugby Sevens, its history, top teams, and what competitions to keep an eye on.
